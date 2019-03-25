@@ -6,5 +6,5 @@
 * Deborah Rose
 * Conrad Koziol
 * Jason Won? 
-* Amy De Luna
+* Amy D
 * Tek Jung Mahat
