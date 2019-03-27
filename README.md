@@ -23,10 +23,10 @@ What areas are most at risk to long-lasting low-flow scenarios under each of the
 What times of the year have the greatest variation in predictions, such that managers are operating under a very uncertain framework for floods?
 
 ## Existing Methods
-Currently, managers are still developing tools to address questions under future climate scenarios. Existing methods rely on streamflow measurements at specific locations in comparison to past measurements. This process is time- and resource-intensive and does not account for future predictions that incorporate climate change.
+Currently, managers are still developing tools to address questions under future climate scenarios. Previous studies have investigated these questions but we hope to expand the analyses to a large ensemble of scenarios and many locations.
 
 ## Proposed Methods / Tools
-We are using Jupyter Notebooks to analyze the data and plot it to visualize our findings. We used Hydroshare to share the large dataset with all collaborators. We pushed our functions to GitHub in order to save the functions that we plan to apply to the larger dataset in the future.
+We are using Jupyter Notebooks to analyze the data and plot it to visualize our findings. We used Hydroshare to share the large dataset with all collaborators. We developed a collective codebase using version control and GitHub in order to save the analysis scripts that we plan to apply to the larger dataset in the future.
 
 ## Background Reading
 Dittmer, K. (2013). Changing streamflow on Columbia Basin tribal lands - Climate change and salmon. Climatic Change 120: 627-641. DOI 10.1007/s10584-013-0745-0.
