@@ -30,3 +30,5 @@ We are using Jupyter Notebooks to analyze the data and plot it to visualize our 
 
 ## Background Reading
 Dittmer, K. (2013). Changing streamflow on Columbia Basin tribal lands - Climate change and salmon. Climatic Change 120: 627-641. DOI 10.1007/s10584-013-0745-0.
+
+NOAA. (2014). Impacts of Climate Change on Columbia River Salmon. Retrieved from https://www.nwfsc.noaa.gov/assets/4/8153_09302014_105020_Crozier-Lit-Rev-Climate-Change-BIOP-2013.pdf
