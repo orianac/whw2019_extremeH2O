@@ -19,3 +19,6 @@ def count_annual_days_below_threshold(timeseries, threshold):
     above = timeseries.where(timeseries > threshold)
     count = np.isnan(above).resample(time='A').sum()
     return count
+
+def aug_sept(month):
+    return (month>=8) & (month<=9)
