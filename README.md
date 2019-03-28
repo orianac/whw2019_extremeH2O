@@ -16,11 +16,13 @@ Climate change is expected to cause an increase in the frequency and severity of
 This work can be used to identify areas with higher likelihoods of extreme events. This will allow water managers to plan for future changes using these tools at a fine-scale for each location.
 
 ## Sample Data
-Our data comes from the Computational Hydrology group at UW. We accessed it by pulling it from Hydroshare. The total files are approximately 20GB but we worked with only a few locations to develop tools that could be scaled up to the larger dataset.
+Our data comes from the Computational Hydrology group at UW. We accessed it by pulling it from Hydroshare. The total files are approximately 20GB but we worked with only a few locations to develop tools that could be scaled up to the larger dataset. The subset of data that we analyzed can be accessed at https://www.hydroshare.org/resource/397df3ba3266415a83225dc4392414b2/
 
 ## Specific Questions
-What areas are most at risk to long-lasting low-flow scenarios under each of these models?
-What times of the year have the greatest variation in predictions, such that managers are operating under a very uncertain framework for floods?
+* How do minimum, maximum, and mean flows change in this ensemble of climate change scenarios?
+* What areas are most at risk to long-lasting low-flow scenarios under each of these models?
+* What seasons have the greatest uncertainty and largest ranges of daily flows, such that water managers are operating under a very uncertain framework in preparing for floods?
+* What tools can we use to scale up this analysis to multiple locations and model variables?
 
 ## Existing Methods
 Currently, managers are still developing tools to address questions under future climate scenarios. Previous studies have investigated these questions but we hope to expand the analyses to a large ensemble of scenarios and many locations.
